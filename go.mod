@@ -21,7 +21,7 @@ require (
 	github.com/go-logr/logr v1.2.3
 	github.com/golang/mock v1.6.0
 	github.com/google/go-cmp v0.5.8
-	github.com/google/go-containerregistry v0.9.0
+	github.com/google/go-containerregistry v0.10.0
 	github.com/google/go-github/v38 v38.1.0
 	github.com/h2non/filetype v1.1.3
 	github.com/jszwec/csvutil v1.7.0
